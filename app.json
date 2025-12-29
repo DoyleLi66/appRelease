@@ -1,0 +1,8 @@
+{
+  "name": "My App",
+  "version": "1.0.0",
+  "description": "A sample app distributed via GitHub Releases.",
+  "author": "Your Name",
+  "repository": "https://github.com/your-username/your-repo",
+  "zipUrl": "https://github.com/your-username/your-repo/releases/download/v1.0.0/app.zip"
+}
