@@ -1,10 +1,10 @@
 {
-    "appName": "Desktop Updater",
-    "description": "This is my app description",
+    "appName": "flutter_application",
+    "description": "A new Flutter project.",
     "items": [
         {
-            "version": "0.1.8",
-            "shortVersion": 9,
+            "version": "1.0.4",
+            "shortVersion": 1,
             "changes": [
                 {
                     "type": "chore",
@@ -24,8 +24,8 @@
             "platform": "windows"
         },
         {
-            "version": "0.1.7",
-            "shortVersion": 8,
+            "version": "1.0.4",
+            "shortVersion": 1,
             "changes": [
                 {
                     "type": "chore",
