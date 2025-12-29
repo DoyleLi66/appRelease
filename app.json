@@ -2,7 +2,7 @@
   "windows": {
     "version": "1.0.4",
     "build_number": "3",
-    "download_url": "https://github.com/DoyleLi66/appRelease/releases/download/V0.1.6/Release.rar",
+    "download_url": "https://github.com/DoyleLi66/appRelease/releases/download/V0.1.6/Release.zip",
     "file_size": 48000000,
     "release_notes": "Bug fixes and improvements"
   }
