@@ -1,27 +1,9 @@
 {
-    "appName": "flutter_application",
-    "description": "A new Flutter project.",
-    "items": [
-        {
-            "version": "1.0.4",
-            "shortVersion": 3,
-            "changes": [
-                {
-                    "type": "chore",
-                    "message": "Fix bug #1"
-                },
-                {
-                    "type": "feat",
-                    "message": "Add new feature #1"
-                },
-                {
-                    "message": "Add new feature #2"
-                }
-            ],
-            "date": "2025-12-29",
-            "mandatory": true,
-            "url": "https://github.com/DoyleLi66/appRelease/tree/main/1.0.4%2B3-windows",
-            "platform": "windows"
-        }
-    ]
+  "windows": {
+    "version": "1.0.4",
+    "build_number": "3",
+    "download_url": "https://github.com/DoyleLi66/appRelease/releases/download/V0.1.6/Release.rar",
+    "file_size": 48000000,
+    "release_notes": "Bug fixes and improvements"
+  }
 }
