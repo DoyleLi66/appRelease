@@ -4,7 +4,7 @@
     "items": [
         {
             "version": "1.0.4",
-            "shortVersion": 1,
+            "shortVersion": 3,
             "changes": [
                 {
                     "type": "chore",
