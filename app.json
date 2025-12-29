@@ -1,8 +1,27 @@
 {
-  "name": "My App",
-  "version": "1.0.0",
-  "description": "A sample app distributed via GitHub Releases.",
-  "author": "Your Name",
-  "repository": "https://github.com/your-username/your-repo",
-  "zipUrl": "https://github.com/your-username/your-repo/releases/download/v1.0.0/app.zip"
+    "appName": "Desktop Updater",
+    "description": "This is my app description",
+    "items": [
+        {
+            "version": "0.1.6",
+            "shortVersion": 9,
+            "changes": [
+                {
+                    "type": "chore",
+                    "message": "Fix bug #1"
+                },
+                {
+                    "type": "feat",
+                    "message": "Add new feature #1"
+                },
+                {
+                    "message": "Add new feature #2"
+                }
+            ],
+            "date": "2025-12-28",
+            "mandatory": true,
+            "url": "https://github.com/DoyleLi66/appRelease/releases/download/V0.1.6",
+            "platform": "windows"
+        }
+    ]
 }
