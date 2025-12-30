@@ -20,7 +20,7 @@
             ],
             "date": "2025-12-30",
             "mandatory": true,
-            "url": "https://gitee.com/darinli/appupdate/releases/download/v1.0.4/testappa-windows-1.0.4",
+            "url": "https://raw.githubusercontent.com/DoyleLi66/appRelease/refs/heads/main/1.0.4%2B3-windows",
             "platform": "windows"
         }
     ]
